@@ -1,0 +1,6 @@
+[submodule "CourseWork-Taxi-Back"]
+	path = CourseWork-Taxi-Back
+	url = https://github.com/baikinkirill/CourseWork-Taxi-Back.git
+[submodule "CourseWork-Taxi-Front"]
+	path = CourseWork-Taxi-Front
+	url = https://github.com/baikinkirill/CourseWork-Taxi-Front.git
