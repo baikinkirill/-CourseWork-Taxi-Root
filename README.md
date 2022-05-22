@@ -55,6 +55,7 @@ Run:
 git clone https://github.com/baikinkirill/CourseWork-Taxi-Root.git
 cd CourseWork-Taxi-Root
 git submodule init
+git submodule update --remote
 docker-compose up --build
 ```
 
