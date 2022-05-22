@@ -43,10 +43,26 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Backend
-<a href="https://github.com/baikinkirill/CourseWork-Taxi-Back/issues">Go to <b>backend</b> repo</a>
+<a href="https://github.com/baikinkirill/CourseWork-Taxi-Back">Go to <b>backend</b> repo</a>
 
 ## Frontend
-<a href="https://github.com/baikinkirill/CourseWork-Taxi-Back/issues">Go to <b>frontend</b> repo</a>
+<a href="https://github.com/baikinkirill/CourseWork-Taxi-Back">Go to <b>frontend</b> repo</a>
+
+## Usage
+
+Run:
+```
+git clone https://github.com/baikinkirill/CourseWork-Taxi-Root.git
+cd CourseWork-Taxi-Root
+git submodule init
+docker-compose up --build
+```
+
+[localhost:3000](http://localhost:3000) - Frontend
+
+[localhost:5000](http://localhost:5000) - Backend
+
+[localhost:3001](http://localhost:3001) - Adminer
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/baikinkirill/CourseWork-Taxi-Root.svg
