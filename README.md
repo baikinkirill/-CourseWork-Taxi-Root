@@ -18,8 +18,6 @@
     Coursework on the subject: templates of Java language software platforms
     <br />
     <br />
-    <a href="https://github.com/baikinkirill/CourseWork-Taxi-Root">View Demo</a>
-    ·
     <a href="https://github.com/baikinkirill/CourseWork-Taxi-Root/issues">Report Bug</a>
     ·
     <a href="https://github.com/baikinkirill/CourseWork-Taxi-Root/issues">Request Feature</a>
